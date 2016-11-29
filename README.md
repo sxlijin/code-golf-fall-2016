@@ -57,4 +57,4 @@ Make a GitHub repository for these six files, and just copy and paste your repos
 
         Boston Braves, 1914, 24882
 
-because length('Boston Braves') = 13, and 13 * 1914 = 24882
+    because length('Boston Braves') = 13, and 13 * 1914 = 24882
