@@ -33,6 +33,7 @@ Make a GitHub repository for these six files, and just copy and paste your repos
 
 1. How many years since 0 CE have been prime and a palindrome?
 2. Produce this
+
 |_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|
 /*_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*
 |_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|
@@ -45,6 +46,7 @@ Make a GitHub repository for these six files, and just copy and paste your repos
 /*_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*
 |_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|
 /*_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*
+
 3. Print out Vanderbilt's phone number, 1 (615) 322-7311, without using any numbers in your source code
 4. Print out all 50 US capital cities in order of their latitude
 5. Flatten this array: 
