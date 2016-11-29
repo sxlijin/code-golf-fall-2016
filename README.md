@@ -31,8 +31,8 @@ Make a GitHub repository for these six files, and just copy and paste your repos
 
 ### Questions
 
-1) How many years since 0 CE have been prime and a palindrome?
-2) Produce this
+* How many years since 0 CE have been prime and a palindrome?
+* Produce this
 
 ```
 |_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|
@@ -49,12 +49,12 @@ Make a GitHub repository for these six files, and just copy and paste your repos
 /*_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*/_|_\*
 ```
 
-3) Print out Vanderbilt's phone number, 1 (615) 322-7311, without using any numbers in your source code
-4) Print out all 50 US capital cities in order of their latitude
-5) Flatten this array:
+* Print out Vanderbilt's phone number, 1 (615) 322-7311, without using any numbers in your source code
+* Print out all 50 US capital cities in order of their latitude
+* Flatten this array:
 
 ```
 [[99, 38, 47, 3, 10], [66, 49, 37, 30, 11, 51, 99, 43, 24], [96, 40, 82, 94, 24, 65, 85], [2, 11, 87, 13, 76, 3], [[73, 31, 74], [7, 18], [57, 65, 87], [68, 49], [1, 81, 96], 1, 55, 38, 21, 96, 3], [[57, 98], [92, 43, 74], [64, 18], [99, 62], [75, 73, 42], 33, 56, 71, 24, 2, 50, 9, 71], [100, 50, 42, 36, 16, 80, 80, 88, 32], [[6, 29, 13], [42, 25], [32, 10], [53, 20, 74, 29], 88, 4, 26, 87, 80, 87], [21, 86, 63, 92, 15], [84, 95, 71, 17, 59, 41, 95, 27, 98, 42, 97, 58, 8], [[83, 70], [40, 2, 93, 70], [72, 71, 95, 83], [58, 45, 25], [99, 98, 99], [84, 26], [5, 21], [89, 16], 46, 26, 64], [21, 22, 89], [64, 79], [86, 43], [90, 65, 94, 19], [4, 6, 72, 25], [60, 41, 33, 28], [93, 11], [30, 27, 13], [24, 32, 64], [75, 62], [79, 17], [52, 18, 15], [66, 90], [38, 33, 89], 95, 92, 28, 89, 58, 48, 98, 54, 69, 21, 76, 17, 39, 47, 71, 5]
 ```
 
-6) print out, in chronological order, each world series victor's name, then the product of the year and the length of their team name
+* print out, in chronological order, each world series victor's name, then the product of the year and the length of their team name
