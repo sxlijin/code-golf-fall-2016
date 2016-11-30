@@ -1,1 +1,1 @@
-print ''.join(str(ord(z[0])-96) if z.isalpha() else z for z in 'a (fae) cbb-gcaa')
+print ''.join(str(ord(z)-ord('a')) if z.isalpha() else z for z in 'b (gbf) dcc-hdbb')
