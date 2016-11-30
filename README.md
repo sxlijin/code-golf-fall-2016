@@ -8,6 +8,9 @@ Your score for each problem will be the file size of your source code for that p
 nor will it be checked for correctness. We will assume that your code runs and produces the correct output.
 However, we will have the 1st, 2nd, and 3rd place contestants run their code live for proof that
 it runs and proof that it produces the correct output.
+* ** The actual code you submit cannot be generated text**
+* Your code cannot call any external processes
+* Your code must be able to be run independently of any other personal files (i. e. you can use standard libraries and other modules but you can't write code in another file and simply call it in your submission file)
 
 ### Submission
 You will need to submit the source code for each question, so there will be a total of 6 files to submit.
@@ -16,6 +19,7 @@ Make a GitHub repository for these six files, and just copy and paste your repos
 * you should only submit your source code files and nothing else
 * there should be no dots ("." charachters) in your filename except before the extension
 * the file size of your file will be evaluated with the python function [os.path.getzise](https://docs.python.org/2/library/os.path.html?highlight=os.path.getsize#os.path.getsize) on an Ubuntu OS. Make sure this is not problematic for your source code.
+* **you cannot compress your files** you must submit your raw source code
 
 #### Sample Valid Filenames:
 * prob_1.py
