@@ -8,7 +8,7 @@ Your score for each problem will be the file size of your source code for that p
 nor will it be checked for correctness. We will assume that your code runs and produces the correct output.
 However, we will have the 1st, 2nd, and 3rd place contestants run their code live for proof that
 it runs and proof that it produces the correct output.
-* ** The actual code you submit cannot be generated text**
+* **The actual code you submit cannot be generated text**
 * Your code cannot call any external processes
 * Your code must be able to be run independently of any other personal files (i. e. you can use standard libraries and other modules but you can't write code in another file and simply call it in your submission file)
 
